@@ -1,4 +1,4 @@
-######for China Life Insurance Group product tracing
+######for Tracing Products of China Life Insurance Group  
 
 import requests
 import os
