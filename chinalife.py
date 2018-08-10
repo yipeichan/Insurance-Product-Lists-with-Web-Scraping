@@ -48,7 +48,7 @@ class report:
 		return date
 
 print("\n===============================")
-product_type=['Life_Insurance','Annuity_Insurance','Health_Accident_Insurance','Travel_Accident_Insurance']
+product_type=['Life_Insurance','Annuity_Insurance','Health_Insurance','Travel_Accident_Insurance']
 report.set_path()
 renew=input("Renew the product lists? y/n: ")
 
