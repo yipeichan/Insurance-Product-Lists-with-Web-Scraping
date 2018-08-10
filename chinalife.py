@@ -11,7 +11,7 @@ class report:
 		self.new=new
 		self.previous=previous
 		self.date=date
-	def set_path():
+	def set_path():						#set the path of the directory
 		global myPath
 		myPath=input("Enter the path of the directory: ")
 		return myPath
