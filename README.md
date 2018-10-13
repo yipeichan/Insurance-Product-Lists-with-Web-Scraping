@@ -12,26 +12,26 @@ The program can compare product lists of two designated dates(ex. all types of i
 
 # Instructions: <br>
 1. Enter the path of the directory of your files:<br>
-![alt text](https://raw.githubusercontent.com/yipeichan/Insurance-Product-Lists-with-Web-Scraping/demo_image/to/demo1.png)
+![alt text](https://github.com/yipeichan/Insurance-Product-Lists-with-Web-Scraping/demo_image/to/demo1.png)
 
 <br>
 2. If you want to obtain the updated product lists, enter y, otherwise n (see point 4) <br>
    After entering y, input the date and the date will automatically be added to csv files (csv files be seperated according to the category of insurances)<br>
-![alt text](https://raw.githubusercontent.com/yipeichan/Insurance-Product-Lists-with-Web-Scraping/demo_image/to/demo2.png)
+![alt text](https://github.com/yipeichan/Insurance-Product-Lists-with-Web-Scraping/demo_image/to/demo2.png)
 
 <br>
 3. Enter the date of the files to be compared, and the result would display the products new launched/ discontinued or sales channel changes within the period. <br>
-![alt text](https://raw.githubusercontent.com/yipeichan/Insurance-Product-Lists-with-Web-Scraping/demo_image/to/demo3.png)
+![alt text](https://github.com/yipeichan/Insurance-Product-Lists-with-Web-Scraping/demo_image/to/demo3.png)
 
 <br>
 4. (continued with point 2) user can directly compare lists of two dates or simply two csv files without renewing product lists.<br> 
 To compare all lists (i.e all kinds of insurance) of two dates, enter 1  <br>
 To compare only two csv files, enter 2 (see point 6) <br>
-![alt text](https://raw.githubusercontent.com/yipeichan/Insurance-Product-Lists-with-Web-Scraping/demo_image/to/demo4.png)
+![alt text](https://github.com/yipeichan/Insurance-Product-Lists-with-Web-Scraping/demo_image/to/demo4.png)
 
 <br>
 5. The result to comparison would be displayed <br>
-![alt text](https://raw.githubusercontent.com/yipeichan/Insurance-Product-Lists-with-Web-Scraping/demo_image/to/demo5.png)
+![alt text](https://github.com/yipeichan/Insurance-Product-Lists-with-Web-Scraping/demo_image/to/demo5.png)
 
 
 
