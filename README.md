@@ -1,7 +1,7 @@
 # Insurance Product Lists with Web Scraping
 Generate lists weekly to track newly launched/ discontinued product in the insurance market
 
-# Method:
+## Method:
 
 1. First part: Extract information from the web<br> 
 The program extract all the names of products available from the site of the targeted insurance company; <br>
@@ -10,7 +10,7 @@ it then export the information into seperated csv files according to the categor
 2. Second part of the program: Compare lists<br>
 The program can compare product lists of two designated dates(ex. all types of insurances of 20180716 vs those of 20180709 ) and produce outcomes of what new products had been luanched (i.e newly posted on the site) within the period and what had been discontinued (i.e no longer on the site)<br><br>
 
-# Instructions: <br>
+## Instructions: <br>
 1. Enter the path of the directory of your files:<br>
 ![alt text](https://github.com/yipeichan/Insurance-Product-Lists-with-Web-Scraping/demo_image/to/demo1.png)
 
