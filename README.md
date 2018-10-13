@@ -3,12 +3,12 @@ Generate lists weekly to track newly launched/ discontinued product in the insur
 
 ## Method:
 
-1. First part: Extract information from the web<br> 
+1. First part: Extracting information from the web<br> 
 The program extract all the names of products available from the site of the targeted insurance company; <br>
 it then export the information into seperated csv files according to the category of insurance (ex. life/ health/ accident/ annuities/ annuity, etc) with the inputed date added at the end of the name of the csv files
 
-2. Second part of the program: Compare lists<br>
-The program can compare product lists of two designated dates(ex. all types of insurances of 20180716 vs those of 20180709 ) and produce outcomes of what new products had been luanched (i.e newly posted on the site) within the period and what had been discontinued (i.e no longer on the site)<br><br>
+2. Second part of the program: Comparing lists<br>
+The program can compare product lists of two designated dates(ex. all types of insurances of 20180716 vs those of 20180709 ) and produce outcomes of new products that had been luanched (i.e newly posted on the site) within the period and what had been discontinued (i.e no longer on the site)<br><br>
 
 ## Instructions: <br>
 1. Enter the path of the directory of your files:<br>
@@ -20,7 +20,7 @@ The program can compare product lists of two designated dates(ex. all types of i
 <img width="1099" alt="demo2" src="https://user-images.githubusercontent.com/24948460/46902904-e2b07e80-ceff-11e8-81c5-735ece2ffca6.png">
 
 <br>
-3. Enter the date of the files to be compared, and the result would display the products new launched/ discontinued or sales channel changes within the period. <br>
+3. Enter the dates of the files to be compared, and the result would display the products new launched/ discontinued or sales channel changes within the period. <br>
 <img width="851" alt="demo3" src="https://user-images.githubusercontent.com/24948460/46902908-ea702300-ceff-11e8-9dcc-f5ac2eb5bf00.png">
 
 <br>
