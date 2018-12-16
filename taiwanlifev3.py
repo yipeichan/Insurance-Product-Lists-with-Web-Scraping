@@ -27,8 +27,8 @@ class report:
 				p_final.append(insurance.replace(u'\ufeff', ''))
 			return p_final 
 	def compare(new,previous):			####compare products in two csvs
-		print("新開商品：\n",list(set(new)-set(previous)),"\n")
-		print("停售商品：\n",list(set(previous)-set(new)),"\n")
+		print("Newly Launched：\n",list(set(new)-set(previous)),"\n")
+		print("Discontinued：\n",list(set(previous)-set(new)),"\n")
 	def request(filename,page):			###write page content into csv
 		csv_file = open(os.path.join(myPath, filename),'a', newline='',encoding='utf-8-sig')
 		csv_writer = csv.writer(csv_file)
@@ -62,7 +62,7 @@ class report:
 		return date
 
 print("\n===============================")
-product_type=['保障型商品','退休型商品','微型保險','保單活化商品','OIU商品','旅行平安保險','附加_批註條款']
+product_type=['ProtectionProducts','SavingProducts','Microinsurance','RenewPolicy','OIU','TravelInsurance','RidersEndorsements']
 report.set_path()
 renew=input("Renew the product lists? y/n: ")
 
