@@ -1,4 +1,7 @@
 # Insurance Product Lists with Web Scraping
+<br>
+<a href="https://yipeichan.github.io"><b>Link to for additional explanations</b></a>
+<br>
 <div class="f">
 This program was written because I have to do insurance market investigation weekly at work. Information such as products dicontinued, new products being launched, coverage of policies and so on would be recorded and later be genreated as a report. In Taiwan it is regulated by law that the loading of certain ages, clause and exception clause be disclosed publicly on the internet. While large insurance companies in Taiwan often provides 100 to 200 insurance contracts, it is not efficient to go through webpages to find new products, or discontinued ones.  Therefore, I wrote the program to generate lists weekly to track newly launched/ discontinued product in the insurance market.<br><br></div>
 
