@@ -77,6 +77,7 @@ INSTRUCTIONS for naming the students' solution repository for assignments with m
 /f [error opening dir]
 /a [error opening dir]
 
+``` 
 1 directory, 5 files
 .
 ├── .DS_Store
@@ -91,3 +92,4 @@ INSTRUCTIONS for naming the students' solution repository for assignments with m
     └── yc3700_gcp_work_example_screenshot_3.png
 
 2 directories, 8 files
+``` 
